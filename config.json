@@ -1,0 +1,7 @@
+{
+
+  "base_url": "https://admin-demo.nopcommerce.com/",
+  "implicitly_wait": 5,
+  "explicit_wait":  5,
+  "test_data_file": "test_data.xlsx"
+}
